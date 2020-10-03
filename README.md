@@ -1,3 +1,3 @@
 # INTAKE-PROJECT
 INTAKE-PROJECT is
-moved to https://github.com/abys7free/INTAKE-PROJECT-1
+moved to https://github.com/GHIntake/INTAKE-PROJECT
